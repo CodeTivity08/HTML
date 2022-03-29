@@ -1,0 +1,29 @@
+HTML BASIC TAGS
+<!DOCTYPE html>
+	<head>
+		<title></title>
+	</head>
+
+	<body>
+
+		<h1></h1>
+
+		<p></p>
+
+		<br/>
+
+		<hr/>
+
+		<center>
+		</center>
+
+		<pre></pre>
+
+		"&nbsp ;"
+
+---------------------------------------------------------------------------------------
+
+
+		
+	</body>
+</html>
